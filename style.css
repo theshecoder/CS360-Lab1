@@ -1,0 +1,140 @@
+#header {
+    border-radius: 0px;
+    /*position: fixed;*/
+    z-index: 1;
+    margin:5px;
+    background-image: url("https://image.freepik.com/free-photo/notebook-on-wooden-desk_438-19316438.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    width: 100%;
+    height: 390px;
+    float: right;
+}
+#header h1 {
+    float: right;
+    margin-bottom: -10px;
+    margin-top: 7px;
+    margin-right: 50px;
+}
+#header h3 {
+    float: right;
+}
+div.right {
+    border-radius: 0px;
+    float: right;
+    position: relative; 
+    margin: 5px;
+}
+div.black pre{
+    border-radius: 0px;
+    float: right;
+    position: relative; 
+    margin: 5px;
+    background-color: #3D3A33;
+    font-family: lato;
+    color: white;
+    font-weight: 200;
+    font-size: 19px;
+    width: 100%;
+
+}
+div.left {
+    border-radius: 0px;
+    float: left;
+    position: relative;
+    margin: 5px; 
+}
+#footer {
+    border-radius: 0px;
+    clear: both;
+    position: relative;
+    /*background-image: url("https://image.freepik.com/free-photo/wooden-planks-texture_19-131453.jpg");*/
+    background-color: #8E929D;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+#footer p {
+    color: white;
+    font-family: lato;
+    font-weight: lighter;
+    font-size: 40px;
+    padding: 2px;
+    padding-left: 220px;
+    padding-top: 30px;
+}
+form {
+    font-family: lato;
+    font-size: 22px;
+    font-weight: 300;
+    margin-left: 30px;
+}
+
+div {
+    width: 100%;
+    height: auto;
+    position: relative; 
+}
+h3
+{
+    font-family: Lato;
+    font-size: 62px;
+    font-weight: lighter;
+    margin-top: -19px;
+    margin-right: 50px;
+}
+
+h4
+{
+    font-family: lato;
+    font-weight: lighter;
+    margin: 5px;
+    padding: 10px; 
+    font-size: 62px;
+    color: #50473B;
+}
+
+h6 {
+    font-family: lato;
+    font-weight: lighter;
+    margin: 5px;
+    padding: 10px; 
+    font-size: 22px;
+    color: #50473B;
+}
+
+h1 {
+    font-family: Sacramento;
+    color: black; 
+    font-size: 95px;
+    text-shadow: 2px 2px #524B43;
+}
+
+p {
+    font-family: lato;
+    color: white;
+    font-weight: 200;
+    font-size: 19px;
+}
+
+li {
+    font-family: lato;
+    color: black;
+    font-weight: 300;
+    font-size: 19px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: lato;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+    font-family: lato;
+    font-size: 22px;
+    font-weight: 200;
+}
